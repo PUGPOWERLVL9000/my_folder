@@ -1,0 +1,66 @@
+h1{
+    font-family: "Brush Script MT", cursive;
+    font-size: 40px;
+    font-style:normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+    text-align: center;
+    color: white;
+
+}
+a{
+    font-family: "Brush Script MT", cursive;
+    font-size: 30px;
+    font-style:normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: #ffee00;
+
+}
+body{
+  background-image:url(http://images2.onionstatic.com/clickhole/1704/6/16x9/800.jpg);
+
+}
+h4{
+  font-family: "Brush Script MT", cursive;
+  font-size: 40px;
+  font-style:normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  text-align: center;
+  color: #535254;
+}
+h6{
+  font-family: "Brush Script MT", cursive;
+  font-size: 40px;
+  font-style:normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  text-align: center;
+  color: #19b57b;
+}
+#keila{
+  transform: rotate(90deg);
+}
+#hammi{
+  transform: rotate(90deg);
+}
+#batpug{
+  font-family: Papyrus, fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+  color: #52FFEE;
+}
+#blue{
+  color: #5900ff;
+}
+#peach{
+  color: #e8d388;
+}
